@@ -26,7 +26,7 @@ is the 26-day C programming bootcamp known as "C Piscine."
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/tugberkcil/ecole42-piscine).
 
-[![Photo of a 42saopaulo's lab](42ist.jpg)](https://www.turkiyeacikkaynakplatformu.com/wp-content/uploads/2021/11/42nin-gizemi-ya-da-varsa-yoksa-kodlama-kapak.jpeg)
+![Photo of a İstanbul lab](https://www.turkiyeacikkaynakplatformu.com/wp-content/uploads/2021/11/42nin-gizemi-ya-da-varsa-yoksa-kodlama-kapak.jpeg)
 
 ## 🛠️ Skills developed at 42cursus
 
@@ -70,4 +70,4 @@ The **inner circle** is the basic curriculum, with all projects being mandatory 
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
-![42's galaxy](galaxy.png)
+![42's galaxy](https://raw.githubusercontent.com/appinha/42cursus/master/galaxy.png)
