@@ -46,21 +46,21 @@
 
 ### Soft-skills
 
-# Self-learning and proactiveness
+    # Self-learning and proactiveness
 
     The foundation of its peer-to-peer learning methodology, at 42, 
     is self-learning. There aren't any teachers at all; instead, students 
     learn at their own pace while using Google, talking to their peers, and 
     empirical information.
 
-# Teamwork
+    # Teamwork
 
     Weekend team projects called "Rush" need a three-person team to co-create 
     a fully functional application. This project lasts for 48 hours. Equalizing 
     the various expertise levels while identifying a standard work style that enables 
     all team members to contribute to the project is the main problem here.
 
-# Time management and resiliency
+    # Time management and resiliency
 
     The school is open twenty-four hours a day. As a result, the so-called "pisciners" 
     are free to work whenever they choose, which necessitates strong time management 
